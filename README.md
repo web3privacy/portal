@@ -1,6 +1,6 @@
 # Web3 Privacy Portal (web3privacy.info)
 
-Welcome! This repository is home to the **Web3 Privacy Portal**, a public-facing initiative dedicated to becoming the most trusted and comprehensive resource for privacy in the Web3 ecosystem.
+Welcome! This repository is home to the **Web3 Privacy Portal**, a public-facing application dedicated to becoming the most trusted and comprehensive resource for privacy in the Web3 ecosystem.
 
 In the rapidly evolving world of Web3, keeping track of projects, news, and research is a significant challenge. This portal was created to be the definitive solution: a community-focused hub dedicated to **aggregating, curating, and presenting** the most important happenings in the Web3 privacy space. Our core principle is to operate as an impartial "ecosystem aggregator." By focusing on careful curation and clear organization, we aim to cut through the noise, build unwavering trust, and become the essential starting point for journalists, developers, and anyone exploring the privacy landscape.
 
